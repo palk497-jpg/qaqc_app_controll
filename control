@@ -1,0 +1,11 @@
+{
+  "enabled": true,
+  "maintenance": false,
+  "message": "",
+  "min_version": "1.0.0",
+  "blocked_versions": [],
+  "allowed_users": [],
+  "blocked_users": [],
+  "offline_grace_days": 7,
+  "notice": ""
+}
