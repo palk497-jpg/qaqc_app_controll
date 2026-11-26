@@ -1,7 +1,7 @@
 {
-  "enabled": false,
+  "enabled": true,
   "maintenance": false,
-  "message": "Kill switch test - disabled by administrator.",
+  "message": "",
   "min_version": "1.0.0",
   "blocked_versions": [],
   "allowed_users": [],
